@@ -1,1 +1,2 @@
 ¿QUE ES UN CLIENTE?
+El Cliente es el usuario final que interactúa con la plataforma para adquirir productos o servicios ofrecidos por la empresa de entrega. Su principal rol es buscar productos, realizar pedidos, realizar pagos y gestionar sus solicitudes de compra. Adicionalmente, el cliente debe proporcionar información válida y actualizada, como la dirección de entrega y los datos de contacto, para garantizar una experiencia satisfactoria en la recepción de los productos o servicios adquiridos.
